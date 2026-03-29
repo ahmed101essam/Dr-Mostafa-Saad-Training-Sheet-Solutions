@@ -1,0 +1,15 @@
+# Compiled Binaries (Executables)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Debugging folders (if using VS Code or an IDE)
+.vscode/
+.idea/
+*.dSYM/
+
+# Temporary / Log files
+*.log
+*.tmp
